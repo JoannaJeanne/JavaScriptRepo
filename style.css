@@ -47,7 +47,7 @@ table:hover {
 table:active {
     background-color: yellow;
 }
-
+/*  ten kod sprawiał że zegar był zasłonięty
 div {
     position:absolute;
     width: 100px;
@@ -65,4 +65,4 @@ div {
 
 div:hover {
   transform: scale(2) rotateY(45deg) rotateX(45deg) rotateZ(25deg)
-}
+} */
